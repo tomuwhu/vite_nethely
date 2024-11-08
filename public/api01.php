@@ -1,4 +1,4 @@
 <?php
 include 'keys.php';
-echo 1+$x;
+echo 1 + $x;
 ?>

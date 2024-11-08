@@ -1,9 +1,9 @@
 <script>
-  var x
+  var x = 0
   import { onMount } from 'svelte';
   onMount(async () => {
     let data = await fetch('/api01.php').then(res => res.text());
-    x = data;
+    x = Number(data);
   })
 </script>
 
