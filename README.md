@@ -1,3 +1,3 @@
 # Svelte + Vite
 
-[Próba élőben](http://svelte.szte.eu/)
+[Próba élőben](https://vite.szte.eu/)
